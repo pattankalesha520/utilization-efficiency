@@ -48,7 +48,7 @@ Led the complete lifecycle—from problem formulation and data engineering to mo
 ### Experimental Results (Summary)
 
   | SNo | Day | Totalspace consumption (Gb) | Predcicted Space consumption (Gb)  |
-  |-----|-----------------------------------| -----------------------------------| 
+  |-----|-----|-----------------------------| -----------------------------------| 
   | 1   |  1  |     12                      | 8.769                              | 
   | 2   |  2  |     14                      | 12.265                             |
   | 3   |  3  |     16                      | 15.762                             |
