@@ -47,13 +47,20 @@ Led the complete lifecycle—from problem formulation and data engineering to mo
 
 ### Experimental Results (Summary)
 
-  | Nodes | Multi-Version Concurrency Control Storage | Optimistic Concurrency Control | Reduction (%)   |
-  |-------|-------------------------------------------| -------------------------------| ----------------|
-  | 3     |  3                                        | 1                              | 66.67           |
-  | 5     |  5                                        | 1.5                            | 70.00           |
-  | 7     |  7                                        | 2                              | 71.43           |
-  | 9     |  9                                        | 2.5                            | 72.22           |
-  | 11    |  11                                       | 3                              | 72.73           |
+  | SNo | Day | Totalspace consumption (Gb) | Predcicted Space consumption (Gb)  |
+  |-----|-----------------------------------| -----------------------------------| 
+  | 1   |  1  |     12                      | 8.769                              | 
+  | 2   |  2  |     14                      | 12.265                             |
+  | 3   |  3  |     16                      | 15.762                             |
+  | 4   |  4  |     18                      | 19.258                             |
+  | 5   |  5  |     21                      | 22.79                              |
+  | 6   |  6  |     27                      | 26.251                             |
+  | 7   |  7  |     27                      | 29.748                             |
+  | 8   |  8  |     29                      | 33.244                             |
+  | 9   |  9  |     36                      | 36.741                             |
+  | 10  | 10  |     39                      | 40.237                             |
+  | 11  | 11  |     42                      | 43.734                             |
+  | 12  | 12  |     55                      | 49.23                              |
 
 ### Citation
 ADVANCED STATISTICAL FORECASTING FOR STORAGE RESOURCE UTILIZATION EFFICIENCY
