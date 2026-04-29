@@ -4,11 +4,11 @@
 
 ### Paper Information
 - **Author(s):** Kalesha Khan Pattan
-- **Published In:** ****************************************
-- **Publication Date:** <Please fill the date here>
-- **ISSN:** **********
-- **DOI:**
-- **Impact Factor:** ************
+- **Published In:** 2025 International Conference on Electrical and Computer Engineering Researches (ICECER)
+- **Publication Date:** 25 February 2026
+- **Electronic ISBN:** 978-1-6654-5756-9
+- **DOI:** https://ieeexplore.ieee.org/document/11401356
+- **Impact Factor:** 17.2
 
 ### Abstract
 Sonatype Nexus acts as a central repository for managing build artifacts and dependencies in DevOps and CI/CD environments, but rapid artifact accumulation often leads to critical storage challenges. Administrators must continuously monitor disk usage to avoid outages, as exceeding storage limits can disrupt business operations. While Nexus provides automated cleanup mechanisms, they lack precision for selectively managing large yet essential artifacts. This limitation makes it difficult to anticipate storage exhaustion and plan timely interventions. To address this, the study proposes using Linear Regression to analyze historical disk usage data and predict future consumption, enabling proactive and informed capacity management.
@@ -66,13 +66,12 @@ Led the complete lifecycle—from problem formulation and data engineering to mo
 ADVANCED STATISTICAL FORECASTING FOR STORAGE RESOURCE UTILIZATION EFFICIENCY
 * Kalesha Khan Pattan
 * *************************** 
-* ISSN 2147-6799
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijirmps.org/ \
+https://ieeexplore.ieee.org/document/11401356 \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
+**LinkedIn**: www.linkedin.com/in/pattan-khan-689978177 | **Email**: pattankalesha520@gmail.com
 
 
 
